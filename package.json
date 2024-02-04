@@ -1,0 +1,24 @@
+{
+  "name": "@saeedha/math-first",
+  "version": "1.0.0",
+  "description": "it'sabout calculate  math",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saeidha/first_npm.git"
+  },
+  "keywords": [
+    "math",
+    "npm",
+    "node"
+  ],
+  "author": "sdhosseinabadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saeidha/first_npm/issues"
+  },
+  "homepage": "https://github.com/saeidha/first_npm#readme"
+}

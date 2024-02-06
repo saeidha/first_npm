@@ -1,6 +1,7 @@
 
-function firstNPM() {
-  return "hello NPM"
+// index.js
+function powerOf2(digits) {
+  return Math.pow(2, digits);
 }
 
-module.exports = firstNPM
+module.exports = powerOf2;
